@@ -1,0 +1,13 @@
+#ifndef PAYMENT_H_HEADER_INCLUDED_98D835E3
+#define PAYMENT_H_HEADER_INCLUDED_98D835E3
+
+//##ModelId=65339785028E
+class Payment
+{
+    //##ModelId=653397940299
+    String amount;
+};
+
+
+
+#endif /* PAYMENT_H_HEADER_INCLUDED_98D835E3 */
